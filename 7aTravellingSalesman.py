@@ -25,3 +25,12 @@ if __name__ == "__main__":
             [15, 35, 0, 30], [20, 25, 30, 0]]
     s = 0
     print(travellingSalesmanProblem(graph, s))
+
+
+
+
+
+'''Description: You are given a list of n cities with the distance between any two cities. Now, you
+have to start with your office and to visit all the cities only once each and return to your office.
+What is the shortest path can you take? This problem is called the Traveling Salesman Problem
+(TSP). '''
