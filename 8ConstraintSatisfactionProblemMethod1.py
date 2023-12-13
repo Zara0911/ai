@@ -20,3 +20,13 @@ for i in range(9):
         add_constraint((i, j))
           
 print(constraints)
+
+
+
+'''Explanation:
+Constraint Satisfaction Problem (CSP) is a fundamental topic in artificial intelligence (AI) that deals with
+solving problems by identifying constraints and finding solutions that satisfy those constraints.CSP has a
+wide range of applications, including scheduling, resource allocation, and automated reasoning.
+CSP is a specific type of problem-solving approach that involves identifying constraints that must be
+satisfied and finding a solution that satisfies all the constraints. CSP has been used in a variety of
+applications, including scheduling, planning, resource allocation, and automated reasoning'''
