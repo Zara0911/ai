@@ -33,3 +33,15 @@ def bfs_path(graph,start, goal):
                  queue.append((next,path+[next]))
 result=list(bfs_path(graph,'A','F'))
 print(result)
+
+
+
+
+
+
+'''Breadth first search algorithm:
+BFS stands for Breadth-First Search, which is another graph traversal algorithm used
+to explore or search through a graph or tree data structure. Unlike DFS, which
+explores the depth of a graph first, BFS explores the vertices at the same level before
+moving to the next level.'''
+
