@@ -20,3 +20,12 @@ print(5 - (2 + 3))
 # 2 ** (3 ** 2) and not
 # as (2 ** 3) ** 2
 print(2 ** 3 ** 2)
+
+
+
+
+'''Associative law, in mathematics, either of two laws relating to number operations of addition
+and multiplication, stated symbolically: a + (b + c) = (a + b) + c, and a(bc) = (ab)c; that is, the
+terms or factors may be associated in any way desired. While associativity holds for ordinary
+arithmetic with real or imaginary numbers, there are certain applications—such as non
+associative algebras—in which it does not hold.'''
