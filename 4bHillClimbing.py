@@ -75,8 +75,8 @@ def hill_climbing(coordinate):
 final_solution = hill_climbing(coordinate)
 print("The solution is \n", final_solution[1])
 
-CMD COMMAND
-1.pip install networkx
+#CMD COMMAND
+#1.pip install networkx
 
 
 
