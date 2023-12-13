@@ -77,3 +77,15 @@ print("The solution is \n", final_solution[1])
 
 CMD COMMAND
 1.pip install networkx
+
+
+
+
+
+
+'''Write a program for Hill Climbing Problem.
+In numerical analysis, Hill climbing is a mathematical optimization
+technique which belongs to the family of local search. It is an
+iterative algorithm that starts with an arbitrary solution to a problem,
+then attempts to find a better solution by making an incremental
+change to the solution'''
