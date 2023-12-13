@@ -80,3 +80,12 @@ elif(Game==Win):
         print("Player 1 Won")    
     else:    
         print("Player 2 Won")
+
+
+
+'''Tic Tac Toe is a two-player, zero-sum game where each player takes turns placing
+their symbol (traditionally X or O) on a 3x3 grid. The objective is to get three of your
+symbols in a row, either horizontally, vertically, or diagonally. If the grid is filled
+without a winner, the game is a draw.
+There are several algorithms that can be used to create an AI for playing Tic Tac Toe.
+One of the simplest and widely used algorithms is the Minimax algorithm with AlphaBeta Pruning.'''
