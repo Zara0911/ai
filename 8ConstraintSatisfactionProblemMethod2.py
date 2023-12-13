@@ -47,3 +47,14 @@ f= d/c
 print( "Probability of having an even number from constraints is ", f)
 g=e/c
 print( "Probability of having a odd number from constraints is ", g)
+
+
+
+''''Explanation:
+Constraint Satisfaction Problem (CSP) is a fundamental topic in artificial intelligence (AI) that deals with
+solving problems by identifying constraints and finding solutions that satisfy those constraints.CSP has a
+wide range of applications, including scheduling, resource allocation, and automated reasoning.
+CSP is a specific type of problem-solving approach that involves identifying constraints that must be
+satisfied and finding a solution that satisfies all the constraints. CSP has been used in a variety of
+applications, including scheduling, planning, resource allocation, and automated reasoning'''
+
