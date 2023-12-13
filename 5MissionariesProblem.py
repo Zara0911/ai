@@ -88,3 +88,15 @@ try:
             break
 except EOFError as e:
     print("\nInvalid input please retry !!")
+
+
+
+
+
+
+
+'''The missionaries and cannibals problem, and the closely related
+jealous husbands problem, are classic river-crossing logic puzzles. The
+missionaries and cannibals problem is a well-known toy problem in
+artificial intelligence, where it was used by Saul Amarel as an example
+of problem representation. '''
