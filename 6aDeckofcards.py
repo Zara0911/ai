@@ -8,16 +8,24 @@ for i in range(5):
 
 ///////////////////////////////////////////////////////////////
 
-beforeshuffel and aftershuffel.
+# beforeshuffel and aftershuffel.
 import random 
 s=["ace",1,2,3,4,5,6,7,8,9,"king","joker","queen"] 
 h=["ace",1,2,3,4,5,6,7,8,9,"king","joker","queen"] 
 l=["ace",1,2,3,4,5,6,7,8,9,"king","joker","queen"] 
 d=["ace",1,2,3,4,5,6,7,8,9,"king","joker","queen"] 
-print("\nBefore shuffle\n") print(s) print(h) 
-print(l) print(d) print("\nAfter shuffle\n") 
-shuf=random.shuffle(s) print(s) 
-shuf=random.shuffle(h) print(h) 
+print("\nBefore shuffle\n")
+print(s)
+print(h) 
+print(l)
+print(d)
+print("\nAfter shuffle\n") 
+shuf=random.shuffle(s)
+print(s) 
+shuf=random.shuffle(h)
+print(h) 
 shuf=random.shuffle(l) 
 print(l) 
-shuf=random.shuffle(d) print(d)
+shuf=random.shuffle(d)
+print(d)
+
