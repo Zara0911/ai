@@ -26,3 +26,14 @@ derived_predicates = derive_predicate(relationships, subject_to_derive)
 
 for predicate in derived_predicates:
     print(predicate)
+
+
+
+'''Explanation:
+First-order logic is another way of knowledge representation in artificial
+intelligence. It is an extension to propositional logic. FOL is sufficiently expressive
+to represent the natural language statements in a concise way.
+First-order logic is also known as Predicate logic or First-order predicate logic.
+First-order logic is a powerful language that develops information about the
+objects in a more easy way and can also express the relationship between those
+objects.'''
