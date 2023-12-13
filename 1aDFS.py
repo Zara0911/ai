@@ -14,3 +14,10 @@ def dfs(graph , node, visited):
      return visited
 visited = dfs(graph1, 'A', [])
 print(visited) 
+
+
+
+'''Depth first search algorithm:
+DFS stands for Depth-First Search, which is a graph traversal algorithm used to
+explore or search through a graph or tree data structure. It starts at a given node and
+explores as far as possible along each branch before backtracking.'''
