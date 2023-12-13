@@ -44,3 +44,9 @@ def solveNQ():
     return True
 # Driver Code
 solveNQ()
+
+
+'''Explanation:
+Given a 4x4 board with 8 tiles and one empty space.
+The objective is to place the numbers on tiles to match the final configuration using the empty
+space. We can slide four adjacent tiles into the empty space.'''
