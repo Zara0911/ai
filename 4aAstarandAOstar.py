@@ -26,9 +26,9 @@ print(result.state)
 print(result.path())
 
 
-CMD COMMAND
-1.pip install simpleai
-2.pip install pydot flask
+#CMD COMMAND
+#1.pip install simpleai
+#2.pip install pydot flask
 
 
 
