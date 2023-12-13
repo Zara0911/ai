@@ -24,3 +24,8 @@ problem = HelloProblem(initial_state='')
 result = astar(problem)
 print(result.state)
 print(result.path())
+
+
+CMD COMMAND
+1.pip install simpleai
+2.pip install pydot flask
