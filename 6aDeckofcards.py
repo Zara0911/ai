@@ -29,3 +29,12 @@ print(l)
 shuf=random.shuffle(d)
 print(d)
 
+
+
+'''Explanation:
+A deck of cards is a set of 52 cards divided into four suits: clubs, diamonds , hearts , and spades.
+Each suit has thirteen cards: ace (A), two, three, four, five, six, seven, eight, nine, ten, jack (J),
+queen (Q), and king (K).
+The ace is the highest-ranking card in most games, but it can also be used as a one. The jack,
+queen, and king are called face cards. '''
+
